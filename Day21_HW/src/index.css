@@ -28,14 +28,14 @@ h1 {
 }
 
 .justify-end {
+  width: 700px;
   display: flex;
   justify-content: flex-end;
-  margin-left: auto;;
-  margin-right: 15%;
+  margin: auto;
 }
 
 .title {
-  padding-top: 40%;
+  padding-top: 300px;
   color: var(--primary-color);
 }
 
